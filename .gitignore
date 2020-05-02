@@ -1,0 +1,5 @@
+test*
+*.pyc
+*.pyo
+.DS_Store
+api_key.txt
