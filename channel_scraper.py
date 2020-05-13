@@ -60,10 +60,10 @@ import sys
 
 # variables
 API_KEY_PATH = "api_key.txt"
-CHANNEL_LINKS_TEXT_FILEPATH = "channel_links.txt"
+CHANNEL_LINKS_TEXT_FILEPATH = "channel_links/channel_links.txt"
 OUTPUT_PATH = "data/"
 UNFINISHED_PATH = "data/unfinished/"
-COMPLETED_LINKS_FILEPATH = "completed_channel_links.txt"
+COMPLETED_LINKS_FILEPATH = "channel_links/completed_channel_links.txt"
 
 MAX_VIDEOS = 500
 RELEVANT_DATA = [  'viewCount', 'likeCount', 'dislikeCount', 'commentCount' ]
