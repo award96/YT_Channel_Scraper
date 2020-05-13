@@ -2,6 +2,8 @@
 
 YouTube Channel Scraper uses the YouTube Data API to scrape relevant information on every youtube video for a channel. It is designed to take in a text file which lists YouTube channel links, and create a csv file for each channel. Each row of the csv file will be a singular video. 
 
+A dataset created with this project can be found at: https://www.kaggle.com/andersward/youtube-video-statistics
+
 ## Prerequisites
 
 ### API key
